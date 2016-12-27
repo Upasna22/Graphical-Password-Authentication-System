@@ -1,0 +1,2 @@
+# Graphical-Password-Authentication-System
+An authentication system using Java, MySQL that uses multiple images and integrated sound signatures for user authentication with increased levels of security.  Utilized Java Swings for front end GUI and a backend MySQL database.  Combined the existing cued click point algorithm with the persuasive feature to influence user choice. The application can be integrated with the Gmail App , or any other application.
